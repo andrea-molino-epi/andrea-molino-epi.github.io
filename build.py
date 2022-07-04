@@ -362,7 +362,7 @@ def build_profile(profile: Dict[str, str]):
     profile_html += '<a href="%s">Google Scholar</a>. ' % profile["scholar"]
     profile_html += "You can reach me at %s." % profile["email"]
     profile_html += "</p>\n"  # close description paragraph
-    profile_html += '<meta name="google-site-verification" content="cWCAxVJgs6FlOFSJzjk67bm3RkQMmUtiOUya_WaETYA" />'
+    profile_html += '<name="google-site-verification" content="cWCAxVJgs6FlOFSJzjk67bm3RkQMmUtiOUya_WaETYA" />'
     profile_html += "</div>\n"  # close profile
 
     return profile_html
