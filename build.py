@@ -362,7 +362,6 @@ def build_profile(profile: Dict[str, str]):
     profile_html += '<a href="%s">Google Scholar</a>. ' % profile["scholar"]
     profile_html += "You can reach me at %s." % profile["email"]
     profile_html += "</p>\n"  # close description paragraph
-    profile_html += '<name="google-site-verification" content="cWCAxVJgs6FlOFSJzjk67bm3RkQMmUtiOUya_WaETYA" />'
     profile_html += "</div>\n"  # close profile
 
     return profile_html
@@ -633,6 +632,7 @@ if __name__ == "__main__":
         footer_html = """\n<footer>\n<p>Feel free to <a href="https://github.com/FedericoAureliano/FedericoAureliano.github.io">use this website template</a>.</p>\n</footer>\n"""
     else:
         footer_html = "\n" + footer_html
+        head_html = '<name="google-site-verification" content="cWCAxVJgs6FlOFSJzjk67bm3RkQMmUtiOUya_WaETYA" />' + head_html
 
     # Create HTML and CSS
     head_html   = replace_placeholders(head_html, meta_json)
