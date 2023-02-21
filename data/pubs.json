@@ -1,12 +1,36 @@
 [
     {
-        "title"     : "Recordkeeping, Logistification, and Disruption: A Study of Homeless Services Systems as Infrastructure",
-        "conference": "",
-        "authors"   : "P. Tracey, P. Garcia, and R. Punzalan",
+        "title"     : "After Automation: Homelessness Prioritization Algorithms and the Future of Care Labor",
+        "journal"   : "",
+        "authors"   : "P. Tracey and P. Garcia",
         "link"      : "",
         "extra"     : "",
         "slides"    : "",
         "section"   : "Under Review",
+        "selected"  : true
+
+    },
+
+    {
+        "title"     : "Translation Work: Human-Algorithm Mediation in Homeless Services",
+        "journal"   : "",
+        "authors"   : "P. Tracey and P. Garcia",
+        "link"      : "",
+        "extra"     : "",
+        "slides"    : "",
+        "section"   : "Under Review",
+        "selected"  : true
+
+    },
+    
+    {
+        "title"     : "Recordkeeping, Logistification, and Disruption: A Study of Homeless Services Systems as Infrastructure",
+        "journal"   : "Archival Science",
+        "authors"   : "P. Tracey, P. Garcia, and R. Punzalan",
+        "link"      : "https://link.springer.com/article/10.1007/s10502-023-09410-0",
+        "extra"     : "",
+        "slides"    : "",
+        "section"   : "Publications",
         "selected"  : true
     },
     {
