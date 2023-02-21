@@ -1,6 +1,6 @@
 {
     "name": "Pelle Tracey",
     "description": "Pelle Tracey is a PhD student at UMSI. He is interested in infrastructure, automated decision-making, bureaucracy, and the future of work.",
-    "favicon": "/images/favicon.png",
+    "favicon": "docs/images/favicon.ico",
     "tracker": ""
 }
