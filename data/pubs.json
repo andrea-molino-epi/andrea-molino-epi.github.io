@@ -1,28 +1,39 @@
 [
+ 
+
+    {
+        "title"     : "Intermediation: Algorithmic Prioritization in Practice in Homeless Services",
+        "conference"   : "CSCW",
+        "authors"   : "P. Tracey and P. Garcia",
+        "link"      : "",
+        "extra"     : "",
+        "slides"    : "",
+        "section"   : "Publications",
+        "selected"  : true
+
+    },
     {
         "title"     : "After Automation: Homelessness Prioritization Algorithms and the Future of Care Labor",
-        "conference"   : "",
+        "conference"   : "Big Data & Society",
         "authors"   : "P. Tracey and P. Garcia",
-        "link"      : "",
+        "link"      : "https://journals.sagepub.com/doi/full/10.1177/20539517241239043",
         "extra"     : "",
         "slides"    : "",
-        "section"   : "Under Review",
+        "section"   : "Publications",
         "selected"  : true
 
     },
-
     {
-        "title"     : "Translation Work: Human-Algorithm Mediation in Homeless Services",
-        "conference"   : "",
-        "authors"   : "P. Tracey and P. Garcia",
+        "title"     : "Reparations of the Horse?: Algorithmic Reparations and Overspecialized Remedies.",
+        "conference"   : "Big Data & Society",
+        "authors"   : "C. Doyle, M. Alvarez-Garcia, P. Tracey, G. Grill, C. Whitney, M. Chambers",
         "link"      : "",
         "extra"     : "",
         "slides"    : "",
-        "section"   : "Under Review",
+        "section"   : "Publications",
         "selected"  : true
 
     },
-    
     {
         "title"     : "Recordkeeping, Logistification, and Disruption: A Study of Homeless Services Systems as Infrastructure",
         "conference"   : "Archival<br>Science",
