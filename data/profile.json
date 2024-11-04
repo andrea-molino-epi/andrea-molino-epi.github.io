@@ -1,7 +1,7 @@
 {
     "headshot": "images/Pelle.jpg",
     "blurb"   : "<p>Hello! My name is Pelle Tracey. I am a Ph.D. candidate at the University of Michigan School of Information, where I am advised by Dr. Patricia Garcia. I am a member of the Culturally Responsive Computing and Anthrotech Labs, and am the Research Operations Lead for the Center for Ethics, Society, and Computing.</p><p>I’m a multi-method scholar broadly interested in how automated technologies, AI, and recordkeeping work in practice, particularly when deployed in frontline government or rental housing contexts. My current research is an ethnographic investigation of automation in homeless services coordinated entry systems, conceived as constellations of artifacts, people, data, policy, and design. My work draws from, and contributes to, critical data studies, archival studies, computer supported cooperative work (CSCW), and human-computer interaction (HCI).</p>",
-    "cv"      : "https://www.si.umich.edu/sites/default/files/inline-files/Pelle_Tracey_CV%20-%20Pelle%20Tracey.pdf",
+    "cv"      : "https://www.si.umich.edu/sites/default/files/Pelle_Tracey_CV%20-%20Pelle%20Tracey.pdf",
     "email"   : "ptracey[at]umich[d0t]edu",
     "scholar" : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=cz-Y01oAAAAJ"
 }
