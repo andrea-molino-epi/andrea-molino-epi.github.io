@@ -24,7 +24,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:amolino29@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/andrea-molino-epi"}
-  - {title: LinkedIn, icon: fa-linkedin-square, url: "https://www.linkedin.com/in/andrea-molino-epi/"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/andrea-molino-epi/"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
