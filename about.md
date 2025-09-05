@@ -7,7 +7,7 @@ permalink: /about/
 <img src="/assets/images/Molino_personal photo for website.jpg" 
      alt="My photo" 
      class="profile-pic" 
-     style="width:500px; float:right; margin:0 0 15px 20px;">
+     style="width:400px; float:right; margin:0 0 15px 20px;">
 
 Hello! I’m **Andrea Molino** 👋
 
