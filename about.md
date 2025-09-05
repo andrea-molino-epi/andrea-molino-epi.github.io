@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-![Your Name](/assets/images/Molino_personal photo for website.jpg){: .profile-pic}
+![My photo](/assets/images/Molino_personal photo for website.jpg){: .profile-pic style="width:200px;"}
 
 Hello! I’m Andrea Molino 👋
 
