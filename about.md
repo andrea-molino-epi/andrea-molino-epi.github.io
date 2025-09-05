@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-(/assets/images/Molino_personal photo for website.jpg){: .profile-pic}
+![Your Name](/assets/images/Molino_personal photo for website.jpg){: .profile-pic}
 
 Hello! I’m Andrea Molino 👋
 
