@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-![My photo](/assets/images/Molino_personal photo for website.jpg){: .profile-pic style="width:200px;"}
+![My photo](/assets/images/Molino_personal photo for website.jpg){: .profile-pic style="width:50px;"}
 
 Hello! I’m Andrea Molino 👋
 
