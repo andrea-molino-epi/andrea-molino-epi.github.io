@@ -11,7 +11,7 @@ permalink: /about/
 
 Hello! I’m **Andrea Molino** 👋
 
-I am an epidemiologist and PhD candidate at the University of Washington School of Public Health in beautiful Seattle, Washington. 
+I am an epidemiologist and PhD candidate at the [University of Washington School of Public Health] ([https://github.com/user/repo/blob/branch/other_file.md](https://epi.washington.edu/)) in beautiful Seattle, Washington. 
     
 Through my 9+ years of experience, I have developed expertise in epidemiologic methods, study design, effective data visualization, and scientific and commentary writing. My work has been multidisciplinary, providing me with a keen awareness of the multifaceted nature of health challenges. 
     
