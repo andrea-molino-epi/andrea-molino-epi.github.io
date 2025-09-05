@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-!("C:/Users/amoli/OneDrive/Desktop/Molino_personal photo for website.jpg"){: .profile-pic}
+(/assets/images/Molino_personal photo for website.jpg){: .profile-pic}
 
 Hello! I’m Andrea Molino 👋
 
