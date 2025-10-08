@@ -174,10 +174,6 @@ a {
     font-style: italic;
 }
 
-.cv-publications strong,
-.cv-publications b {
-  font-weight: bold;
-}
 
 /* End News and Pubs */
 
@@ -240,6 +236,10 @@ a {
         width: 0;
         height: 0;
     }
+}
+
+.cv-publications strong {
+  font-weight: bold !important;
 }
 
 /* Mode switch */
