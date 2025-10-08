@@ -198,7 +198,8 @@ a {
     }
     
     .paper-flex {
-        flex-flow: wrap;
+      display: block; /* Remove flex layout for classic CV style */
+      width: 100%;
     }
 
     .paper-conference {
