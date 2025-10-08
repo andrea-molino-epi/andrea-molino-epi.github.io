@@ -147,13 +147,15 @@ a {
     width: calc(90% - (75px + 20px + 20px));
 }
 
-.paper-title, .paper-authors, .paper-conference {
-    overflow: hidden;
-    word-wrap: break-word;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    line-height: 1.3;
-    max-height: 1.3;
+.paper-conference,
+.paper-title,
+.paper-authors {
+  white-space: normal;   /* Allow text to wrap */
+  overflow: visible;     /* Show all content */
+  text-overflow: unset;  /* Remove truncation */
+  width: auto;           /* Let width expand */
+  display: block;        /* Stack vertically */
+  margin-bottom: 0.3em;
 }
 
 .paper-icons {
