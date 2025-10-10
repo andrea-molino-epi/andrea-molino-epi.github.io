@@ -26,12 +26,12 @@ a:hover {
 }
 
 .hbar {
-    color: #AAAAAA;
+    color: #E69B99;
     border-bottom-width: 1px;
 }
 
 h3 {
-    border-bottom: 1px #AAAAAA dashed;
+    border-bottom: 1px #E69B99 dashed;
 }
 
 .paper-icon {
