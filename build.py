@@ -358,9 +358,12 @@ def build_profile(profile: Dict[str, str]):
     )
     profile_html += profile["blurb"]
     profile_html += "\n<p>Here is my "
-    profile_html += '<a href="%s">CV</a> and ' % profile["cv"]
-    profile_html += '<a href="%s">Google Scholar</a>. ' % profile["scholar"]
-    profile_html += "You can reach me at %s." % profile["email"]
+    profile_html += '<a href="%s">CV</a> and an' % profile["cv"]
+    profile_html += '<a href="%s">abbreviated, non-academic resume</a>.' % profile["resume"]
+    profile_html += "\n<p>If you're interested in a full list of my publications, you can find them on my "
+    profile_html += '<a href="%s">Google Scholar</a>, ' % profile["scholar"]
+    profile_html += '<a href="%s">NCBI Bibliography</a>, or below.' % profile["ncbi"]
+    profile_html += "I would love to connect! You can reach me at %s." % profile["email"]
     profile_html += "</p>\n"  # close description paragraph
     profile_html += "</div>\n"  # close profile
 
